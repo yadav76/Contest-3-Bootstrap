@@ -1,0 +1,30 @@
+body{
+    margin:20px;
+    padding: 20px 60px;
+}
+.headline{
+    font-size: 20px;
+}
+.ele1{
+    height: 350px;
+}
+.ele2{
+    font-size: 30px;
+}
+.ele{
+    font-size: 30px;
+}
+.box{
+    padding: 10px;
+}
+.navbar-brand:focus,
+.navbar-brand:hover{
+    color: black;
+}
+.navbar-link{
+    color: black;
+}
+
+.navbar{
+    margin-left:-100;
+}
